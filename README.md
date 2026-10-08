@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sevra 👋
 
-<!--
-**sevraa/sevraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics student at Gebze Technical University
 
-Here are some ideas to get you started:
+I'm interested in applying mathematics to real-world problems through
+data analysis, optimization, and computational methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas I'm Exploring
+
+- Mathematical Modeling
+- Optimization
+- Machine Learning
+- Game Theory
+- Dynamic Pricing
+- Data Analysis
+
+## 💻 Tools & Technologies
+
+- Python
+- MATLAB
+- NumPy
+- Pandas
+- Matplotlib
+- Git & GitHub
+
+## 🚀 Current Project
+
+### ✈️ Airline Dynamic Pricing Analysis
+
+I'm currently exploring how airline ticket prices change with
+time-to-departure and remaining seat inventory using mathematical
+modeling and Python.
+
+The project includes synthetic data generation, exploratory analysis,
+visualization, and a simple dynamic pricing model.
+
+## 🌱 Currently Learning
+
+I'm continuously developing my skills in Python, mathematical modeling,
+optimization, and data-driven research.
